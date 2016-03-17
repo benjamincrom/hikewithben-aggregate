@@ -1,0 +1,3 @@
+[submodule "lib/common_utilities"]
+	path = lib/common_utilities
+	url = https://github.com/benjamincrom/common_utilities.git

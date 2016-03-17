@@ -7,7 +7,7 @@ weather_container.py -- read NOAA 1981-2010 U.S. Climate Normals from
 import datetime
 import os
 
-from lib import travel
+from lib.common_utilities import travel
 
 class WeatherContainer(object):
     '''
